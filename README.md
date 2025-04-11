@@ -2,7 +2,6 @@
 
 This is a simple Streamlit web app for uploading a time series CSV file (e.g., daily sales data), visualizing it, and forecasting future values using ARIMA or Prophet models.
 
-![plot](screens/screen1.png.png)
 ---
 
 ## 🔧 Features
