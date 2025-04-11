@@ -38,6 +38,7 @@ git clone git@github.com:danujafernando/time-series-forecasting.git
 ## 2. 📦 Install required packages
 ```bash 
 pip3 install streamlit pandas matplotlib statsmodels scikit-learn
+pip3 install prophet
 ```
 
 ## 3. ▶️ Run the app
